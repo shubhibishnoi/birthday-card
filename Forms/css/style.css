@@ -1,0 +1,59 @@
+body{
+  background-color: #FDF6F0;
+  /* it removes allthe space from allt he directions but h1 has spme default margin-top so weneed to remove it separately*/
+  margin: 0px;
+}
+hr{
+  border-width: 7px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-color: grey;
+
+ }
+
+h1{
+  /* to remove the space from top */
+  margin-top: 0px;
+}
+ /* .form-details{
+  background-color: #F7E6AD;
+  width: 80%;
+  height: 40%;
+  /* border-radius: 6px; */
+  /* border-style: solid;
+border-color:#BD4B4B;
+border-width: 2px 5px 4px 8px;
+}  */
+*/
+/*
+.top{
+  background-color: #B97A95;
+  height: 300px;
+  width: 300px;
+  border-color: black;
+  border-width:10px;
+  border-style: solid;
+
+}
+
+.bottom{
+  background-color: #055052;
+  height: 300px;
+  width: 300px;
+  margin-left: 640px;
+  border-color: black;
+  border-width:10px;
+  border-style: solid;
+
+}
+
+.middle{
+  background-color: #002366;
+  height: 300px;
+  width: 300px;
+  border-color: black;
+  border-width:10px;
+  margin-left: 320px;
+  border-style: solid;
+} */
